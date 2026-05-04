@@ -1,1 +1,1 @@
-Agregar un pie de página (<footer>) al final del <body> en index.html
+Agregar un pie de página (<footer>) al final del <body> en index.html.
